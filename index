@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bay Moon Barn</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header class="hero">
+<div class="overlay">
+<h1>Bay Moon Barn</h1>
+<p>Horse Training • Sales • Breeding</p>
+
+<div class="buttons">
+<a href="training.html" class="btn">Horse Training</a>
+<a href="sales.html" class="btn">Horses for Sale</a>
+<a href="breeding.html" class="btn">Breeding Program</a>
+</div>
+</div>
+</header>
+
+<section class="intro">
+<h2>Welcome to Bay Moon Barn</h2>
+<p>
+A focused equine program dedicated to developing horses through structured training,
+offering quality horses for sale, and maintaining a thoughtful breeding program.
+</p>
+</section>
+
+<section class="preview">
+<h2>Featured Horses</h2>
+<p>Updated periodically — contact for availability.</p>
+
+<div class="card">
+<h3>Example Horse Name</h3>
+<p>Age: 6 • Discipline: Dressage • Training: Intermediate</p>
+<a href="sales.html" class="btn-small">View Details</a>
+</div>
+</section>
+
+<section class="contact">
+<h2>Contact</h2>
+<p>Email: info@baymoonbarn.com</p>
+<p>Location: (your location here)</p>
+</section>
+
+</body>
+</html>
